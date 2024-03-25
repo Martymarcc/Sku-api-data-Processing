@@ -48,7 +48,6 @@ To run the code, follow these steps:
 - `main.py`: Contains the main script to execute the data processing.
 - `requirments.txt`: Containts the required libraries 
 - `README.md`: This file providing information about the project.
-- `filtered_records.json`: JSON file containing the filtered records saved by the script.
 
 
 
