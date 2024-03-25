@@ -25,16 +25,16 @@ To run the code, follow these steps:
    cd ~/Desktop
 
 3. Clone this repository to your local machine using the following command:
-   'git clone https://github.com/Martymarcc/sku-api-data-processing.git'
+   `git clone https://github.com/Martymarcc/sku-api-data-processing.git`
 
 4. Navigate to the project directory:
-   'cd sku-api-data-processing'
+   `cd sku-api-data-processing`
 
 5. Install the required dependencies:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
 6. Run the main script:
-   python main.py
+   `python main.py`
 
 
 ## Functionality
