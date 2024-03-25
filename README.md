@@ -1,28 +1,37 @@
-# sku-api-data-processing
+# SKU API Data Processing
 
-# API Data Processing 
+This project demonstrates how to consume an API to retrieve Stock Keeping Unit (SKU) data, filter records created on or after January 1, 2022, and save the filtered records to a file. The code is written in Python and utilizes the `requests` library for making HTTP requests to the API.
 
-This project is designed to demonstrate how to consume data from an API and process it. The provided API is used to manage Stock Keeping Unit (SKU) identifiers for a retail organization. The goal of this project is to retrieve records from the API, filter them based on their creation date, count the filtered records, and save them to a file.
+## Getting Started
 
-## Requirements
+Follow these instructions to set up and run the project on your local machine.
 
-- Python 3.x
-- Requests library (can be installed via pip: `pip install requests`)
+### Prerequisites
+
+- Python 3.x: [Installation Guide](https://www.python.org/downloads/)
+- pip (Python package installer): [Installation Guide](https://pip.pypa.io/en/stable/installation/)
+- Git: [Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Getting Started
 
 To run the code, follow these steps:
 
-1. Clone this repository to your local machine using the following command:
+1. Open your terminal or command prompt.
+
+2. Navigate to the directory where you want to clone the repository:
+   ```bash
+   cd /path/to/your/directory
+
+3. Clone this repository to your local machine using the following command:
    'git clone https://github.com/Martymarcc/sku-api-data-processing.git'
 
-2. Navigate to the project directory:
+4. Navigate to the project directory:
    'cd sku-api-data-processing'
 
-3. Install the required dependencies:
+5. Install the required dependencies:
    pip install -r requirements.txt
 
-4. Run the main script:
+6. Run the main script:
    python main.py
 
 
