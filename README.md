@@ -21,6 +21,8 @@ To run the code, follow these steps:
 2. Navigate to the directory where you want to clone the repository:
    ```bash
    cd /path/to/your/directory
+            or
+   cd ~/Desktop
 
 3. Clone this repository to your local machine using the following command:
    'git clone https://github.com/Martymarcc/sku-api-data-processing.git'
